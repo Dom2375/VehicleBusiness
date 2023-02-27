@@ -1,0 +1,9 @@
+Tokyo
+Car,VolksWagon,Golf,2007,2000,1048,Orange,dsff32,5,1.8,TRUE
+Car,Audi,A4,2013,10000,1870,Black,23r4dgfs,4,2,TRUE
+Car,Audi,RS3,2018,54000,1995,Coral,dsf23,5,4.2,TRUE
+Car,BMW,M4,2017,48000,2018,Pink,fdsgd1,5,4,TRUE
+Car,Mercedes,C220,2003,4000,1450,Blue,1kljn,5,2.2,TRUE
+Car,Koenigsegg,CCX,2008,1400000,1721,White,4lkn,2,5,TRUE
+Plane,Supermarine,Spitfire,1939,8000000,14000,Green,ffff3,FALSE,8000,20000,4,Prop
+Plane,Hawk,H4,2007,1000000,25000,Brown,hw8,TRUE,200,45000,2,Jet

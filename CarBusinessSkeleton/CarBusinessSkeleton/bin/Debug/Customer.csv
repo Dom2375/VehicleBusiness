@@ -1,0 +1,28 @@
+Alex
+Car,Ford,GT40,1964,200000,987,Red,A3,2,4,False
+Car,Ford,Fiesta,2001,2000,1015,Blue,fdssf1,4,1,True
+Car,VolksWagon,Golf,2007,2000,1048,Orange,d3,5,1.8,True
+Car,Audi,A4,2015,20000,1870,Black,23m,4,2,True
+Truck,Toyota,Tundra,2017,35000,2700,Blue,bbb123,4000,4,2017
+Car,Mercedes,C220,2001,3000,1450,Blue,1klvr,5,2.2,True
+Plane,Boeing,707,1967,11000000,250000,Blue,r11ner,True,17845,41000,200,Jet
+Jack
+Car,Koenigsegg,CCX,2008,1200000,1721,White,lkn,2,5,True
+Car,Pagani,Zonda F,2012,4200000,1520,White,5m,2,7.2,True
+Car,Ford,Cortina,1984,3700,1200,Grey,rrr5,4,1.6,False
+Car,Ford,Focus RS,2015,18000,1502,Black,erfwaew8,5,2,True
+Car,VolksWagon,Jetta,2000,5755,1321,Brown,ewr4,5,1.8,False
+Car,Audi,S8,2009,7500,3150,Green,fdasf7,4,4,True
+Plane,Supermarine,Spitfire,1942,510000,108000,Green,spft,False,40,20000,2,Prop
+Ben
+Car,Audi,A4,2004,4195,1850,Green,fd11,5,2.8,True
+Car,BMW,M4,2018,62000,2005,Matt Black,aa34,5,4,True
+Car,Mercedes,C220,2015,24000,1440,White,asp98,5,2.2,True
+Plane,Schempp-Hirth,Janus C,2000,45000,750,White,dsfsd22,True,1200,10000,2,None
+Eva
+Helicopter,Robinson,R22,1995,120000,1500,Black,22222f,False,150,15000
+Plane,Supermarine,Spitfire,1939,8000000,14000,Green,ffff3,False,8000,20000,4,Prop
+Car,Audi,RS3,2018,54000,1995,Coral,dsf23,5,4.2,True
+Car,BMW,M4,2017,48000,2018,Pink,fdsgd1,5,4,True
+Truck,Ford,F150,2016,18000,1900,Grey,f15044t,4000,4,2017
+
