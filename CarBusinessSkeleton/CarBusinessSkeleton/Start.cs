@@ -34,6 +34,72 @@ namespace CarBusinessSkeleton
             this.reg = reg;
         }
     }
+
+    public class Car : VehicleClass
+    {
+        protected int doorNum;
+        protected int engineSize;
+        protected bool electricWindows;
+
+        public Car(string type, string make, string model, int year, double price, double weight, string colour, string reg, int doorNum, int engineSize, bool electricWindows) 
+            : base(type, make, model, year, price, weight, colour, reg)
+        {
+            this.doorNum = doorNum;
+            this.engineSize = engineSize;
+            this.electricWindows = electricWindows;
+
+        }
+
+    }
+
+    public class Truck : VehicleClass
+    {
+        protected int weightLimit;
+        protected int wheelNum;
+        protected int truckLength;
+
+        public Truck(string type, string make, string model, int year, double price, double weight, string colour, string reg, int weightLimit, int wheelNum, int truckLength) 
+            : base(type, make, model, year, price, weight, colour, reg)
+        {
+            this.weightLimit = weightLimit;
+            this.wheelNum = wheelNum;
+            this.truckLength = truckLength;
+        }
+    }
+
+    public class Helicopter : VehicleClass
+    {
+        protected bool airworthy;
+        protected int hoursUsed;
+        protected double altLimit;
+
+        public Helicopter(string type, string make, string model, int year, double price, double weight, string colour, string reg, bool airworthy, int hoursUsed, double altLimit)
+            : base(type, make, model, year, price, weight, colour, reg)
+        {
+            this.airworthy = airworthy;
+            this.hoursUsed = hoursUsed;
+            this.altLimit = altLimit;
+        }
+    }
+
+    public class Plane : VehicleClass
+    {
+        protected bool airworthy;
+        protected int hoursUsed;
+        protected double altLimit;
+        protected int seats;
+        protected string engines;
+
+        public Plane(string type, string make, string model, int year, double price, double weight, string colour, string reg, bool airworthy, int hoursUsed, double altLimit, int seats, string engines)
+            : base(type, make, model, year, price, weight, colour, reg)
+        {
+            this.airworthy = airworthy;
+            this.hoursUsed = hoursUsed;
+            this.altLimit = altLimit;
+            this.seats = seats;
+            this.engines = engines;
+        }
+    }
     public partial class Start : Form
     {
         public Start()
