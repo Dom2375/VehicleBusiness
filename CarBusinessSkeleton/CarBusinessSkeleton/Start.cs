@@ -37,17 +37,16 @@ namespace CarBusinessSkeleton
 
     public class Car : VehicleClass
     {
-        protected int doorNum;
-        protected int engineSize;
-        protected bool electricWindows;
-
-        public Car(string type, string make, string model, int year, double price, double weight, string colour, string reg, int doorNum, int engineSize, bool electricWindows) 
-            : base(type, make, model, year, price, weight, colour, reg)
+        int DoorTotal;// stores the number of doors
+        float engineSize;// stores the engine size
+        bool electricWindows;//stores whether a car has electric windows
+        public Car(string type, string make, string model, int year, double price, double weight, string colour, string registration,
+            int DoorTotal, float engineSize, bool electricWindows) : base(type, make, model, year, price, weight, colour, registration)
+        //constructor for car class
         {
-            this.doorNum = doorNum;
+            this.DoorTotal = DoorTotal;
             this.engineSize = engineSize;
             this.electricWindows = electricWindows;
-
         }
 
     }

@@ -1,0 +1,14 @@
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\bin\Debug\CarBusinessSkeleton.exe.config
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\bin\Debug\CarBusinessSkeleton.exe
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\bin\Debug\CarBusinessSkeleton.pdb
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\VehicleBusiness.csproj.AssemblyReference.cache
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Customers.resources
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.VehicleClass.resources
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Locations.resources
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Properties.Resources.resources
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Vehicle.resources
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.Vehicles.resources
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\VehicleBusiness.csproj.GenerateResource.cache
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\VehicleBusiness.csproj.CoreCompileInputs.cache
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.exe
+C:\Users\domin\Documents\Projects\CarBusinessSkeleton\CarBusinessSkeleton\CarBusinessSkeleton\obj\Debug\CarBusinessSkeleton.pdb

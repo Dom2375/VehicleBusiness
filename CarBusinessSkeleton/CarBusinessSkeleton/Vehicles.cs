@@ -12,9 +12,11 @@ namespace CarBusinessSkeleton
 {
     public partial class Vehicles : Form
     {
-        public Vehicles()
+        public Vehicles(List<VehicleClass> locationlist)
+        //creates Vehicles form with a list of type VehicleClass as a parameter 
         {
             InitializeComponent();
+            vehiclesListBox.DataSource = locationlist;//loads the list pased to the method in the listbox
         }
 
         private void add_Click(object sender, EventArgs e)
